@@ -1,8 +1,8 @@
-import Explorer from "./file-explorer/Explorer";
+
 function App() {
   return (
     <div className='App'>
-        <Explorer/>
+        <h1>hello world</h1>
     </div>
   );
 }
